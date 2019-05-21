@@ -1,3 +1,3 @@
 # hello-world
-Hello-World
+Hello World
 this is test gethub function
